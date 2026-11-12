@@ -1,10 +1,8 @@
 # Nearest Node Distance
 
-A reporter plug-in for **Glyphs 4** by Kasper Pyndt Rasmussen / Approximate Type.
+A reporter plug-in for **Glyphs 4** by Kasper Pyndt Rasmussen (Approximate Type).
 
-Select an outline node to see its straight-line distance to the nearest other
-outline node in the same layer. A green line at **50% opacity** connects the
-measured pair. The number and line update as you move nodes.
+Select a node to see its straight-line distance to the nearest other outline node in the same layer.
 
 - Works across all editable paths in the active layer.
 - Supports multiple selected nodes.
